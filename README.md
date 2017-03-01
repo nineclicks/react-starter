@@ -1,3 +1,5 @@
+Built from a walkthrough by [ahfarmer](https://github.com/ahfarmer/minimal-react-starter).
+
 Usage
 ---
 ```
